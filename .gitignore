@@ -1,0 +1,12 @@
+# 忽略annotation.md文件
+annotation.md
+
+# 忽略 Npcap 相关文件  保留重要的include和lib即可
+/npcap/docs/
+/npcap/Examples-pcap/
+/npcap/Examples-remote/
+/npcap/Npcap_Guide.html
+
+
+# 忽略编译目录
+/build/
